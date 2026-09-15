@@ -1,0 +1,8 @@
+{
+  "name": "MyHappyJourney - Kerala Honeymoon Tour Packages",
+  "description": "Production-quality, mobile-first Kerala Tour Packages landing page for MyHappyJourney (Since 2007).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
